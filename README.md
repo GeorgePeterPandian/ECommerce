@@ -45,8 +45,6 @@ Each block description is as follows:
 - Clean and Build the project
 - Run the codebase into an emulator of your choice or any real devices
 - You can change the BackEndUrl for the 3 flavors under buildSrc folder in BackEndURL object
-- Please do contact me at m.georgepeter@gmail.com if you have any trouble setting up and running the codebase.Happy to help.
-
 
 ### Modules
 
