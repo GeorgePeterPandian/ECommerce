@@ -1,10 +1,11 @@
-### Tech Task
+### Project
 
-This is the android codebase for simple Ecommerce application to display the home feed section dhnamically
+This is the android codebase for simple Ecommerce application to display the home feed section dynamically from back end services.
 
 - [Description](#description)
 - [Platform](#platform)
 - [How to run the code base](#how-to-run-the-code-base)
+- [Unit Tests](#unit-tests)
 - [Modules](#modules)
 - [Code Flow](#code-flow)
 - [Screen Grabs](#screen-grabs)
@@ -45,6 +46,12 @@ Each block description is as follows:
 - Clean and Build the project
 - Run the codebase into an emulator of your choice or any real devices
 - You can change the BackEndUrl for the 3 flavors under buildSrc folder in BackEndURL object
+
+### Unit Tests
+
+- Unit Test for data layer can be found under **`products-data`** module
+- Unit Test for domain layer can be found under **`products-domain`** module
+- Unit Test for View Model layer can be found under **`ECommerce`** / app module
 
 ### Modules
 
