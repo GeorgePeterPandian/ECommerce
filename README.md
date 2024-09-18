@@ -25,11 +25,14 @@ Each block description is as follows:
    provided products as a horizontal free scrolling list.
    
    a. Each product width is 124, and all the strings are single line
+   
    b. Image height is 124
+   
 3. "sectionType":"splitBanner" => Displays two images on screen( equal
    widths).
    
    a. Height is 240dp
+   
 5. "sectionType":"banner" => Displays Image by occupying full screen
    width.
    
