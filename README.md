@@ -1,6 +1,6 @@
-### PetSafeBrands Tech Task
+### Tech Task
 
-This is the android codebase for PetSafeBrands Tech Task
+This is the android codebase for simple Ecommerce application to display the home feed section dhnamically
 
 - [Description](#description)
 - [Platform](#platform)
