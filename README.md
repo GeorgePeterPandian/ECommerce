@@ -54,7 +54,7 @@ Each block description is as follows:
 
 ![Modules](https://github.com/GeorgePeterPandian/ECommerce/blob/main/Modules%20Overview/ModulesOverview.png)
 
-- **`PECommerce:`** The source code for Android Application.
+- **`ECommerce:`** The source code for Android Application.
 - **`buildSrc:`** The build source files related to the project resides in here. Custom Android
   Application, Android Library, Kotlin Library and Plugin extensions resides here.
 - **`core:`** The common core classes used across domain, data and UI layer resides here.
