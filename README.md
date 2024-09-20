@@ -13,7 +13,7 @@ This is the android codebase for simple Ecommerce application to display the hom
 
 ### Description
 
-Create a native app that hits the API mentioned and render in the UI but keep it simple.
+Create a native Android app that hits the API mentioned below and render in the UI.
 API: https://jsonkeeper.com/b/5BEJ
 
 The above API provides a JSON with list of blocks where each block is of different type, Filter
