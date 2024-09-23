@@ -90,15 +90,16 @@ The Screen Grabs can be found under ScreenShots folder
 
 ###  Light Mode
 
-![alt text](https://github.com/GeorgePeterPandian/ECommerce/blob/main/Screenshots/LightMode/Screenshot_20240918-081622.png)
+![alt text](https://github.com/GeorgePeterPandian/ECommerce/blob/main/Screenshots/LightMode/Screenshot_20240923-093755.png)
 
 
-![alt text](https://github.com/GeorgePeterPandian/ECommerce/blob/main/Screenshots/LightMode/Screenshot_20240918-081627.png)
+![alt text](https://github.com/GeorgePeterPandian/ECommerce/blob/main/Screenshots/LightMode/Screenshot_20240923-093803.png)
 
 
 
 ### Dark Mode
 
-![alt text](https://github.com/GeorgePeterPandian/ECommerce/blob/main/Screenshots/DarkMode/Screenshot_20240918-081553.png)
+![alt text](https://github.com/GeorgePeterPandian/ECommerce/blob/main/Screenshots/DarkMode/Screenshot_20240923-093721.png)
 
-![alt text](https://github.com/GeorgePeterPandian/ECommerce/blob/main/Screenshots/DarkMode/Screenshot_20240918-081601.png)
+
+![alt text](https://github.com/GeorgePeterPandian/ECommerce/blob/main/Screenshots/DarkMode/Screenshot_20240923-093733.png)
