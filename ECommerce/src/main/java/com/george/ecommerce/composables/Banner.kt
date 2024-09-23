@@ -9,6 +9,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -34,8 +35,8 @@ fun BannerImage(item: ItemUIM) {
             contentDescription = item.title,
             modifier = Modifier
                 .fillMaxWidth()
-                .height(240.dp)
-                .padding(top = 16.dp, bottom = 16.dp)
+                .height(240.dp),
+            contentScale = ContentScale.Crop
         )
 
         Text(
