@@ -9,6 +9,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
@@ -34,14 +35,18 @@ fun SplitBannerSection(items: List<ItemUIM>) {
                 Image(
                     painter = rememberAsyncImagePainter(item.image),
                     contentDescription = item.title,
-                    modifier = Modifier.fillMaxSize().height(240.dp)
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .height(240.dp)
                 )
 
                 Text(
                     text = item.title,
                     maxLines = 1,
                     overflow = TextOverflow.Ellipsis,
-                    modifier = Modifier.padding(16.dp),
+                    modifier = Modifier
+                        .padding(16.dp)
+                        .align(Alignment.CenterHorizontally),
                     fontSize = 14.sp
                 )
             }
